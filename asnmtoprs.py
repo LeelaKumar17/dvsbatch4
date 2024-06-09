@@ -1,0 +1,16 @@
+a=5
+a%=3
+x=5
+print(x)
+x+=3
+print(x)
+x-=3
+print(x)
+x*=3
+print(x)
+x/=3
+print(x)
+x%=3
+print(x)
+x**=3
+print(x)
